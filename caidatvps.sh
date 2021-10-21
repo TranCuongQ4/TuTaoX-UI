@@ -10,7 +10,6 @@ echo " Vui Lòng Vào Trình Duyệt Nhập IP VPS Và Thêm Vào Đuôi Là :54
 echo " Use admin & Pass admin . Nhớ Đổi Hết Thông Tin Tránh Bị Mất "
 echo " Nhớ Đổi 54321 Thành 5xxxx Giữ Lại 5 Đầu Nhé Không Bạn Bị Người Khác Đổi Đấy "
 echo " Vào Nhóm Zalo Chúng Tôi Cùng Giao Lưu Nhé : https://zalo.me/g/nlsmbo197 "
-speedtest
 echo " Bây Giờ Bạn Vào X-UI Sửa Thông Tin Và Tạo Vmess Trojan Vless Đợi Gì Nữa Nào "
 echo " Liên Hệ Với Minh Duy Qua Điện Thoại & Zalo Để Có Giá VPS Hợp Lý Nhé : 0766884380 "
 echo " 😍🇸🇬😍🇻🇳😍 "
