@@ -5,7 +5,7 @@ ufw allow 54321
 ufw allow 443
 ufw allow 80
 ufw allow 80/tcp
-echo " Đã Cài Đặt Thành Công X-UI & SpeedTest "  
+echo " Đã Cài Đặt Thành Công X-UI "  
 echo " Vui Lòng Vào Trình Duyệt Nhập IP VPS Và Thêm Vào Đuôi Là :54321 "
 echo " Use admin & Pass admin . Nhớ Đổi Hết Thông Tin Tránh Bị Mất "
 echo " Nhớ Đổi 54321 Thành 5xxxx Giữ Lại 5 Đầu Nhé Không Bạn Bị Người Khác Đổi Đấy "
