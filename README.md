@@ -1,12 +1,12 @@
 **Sao Chép Hết Dán Vào VPS :**
 
-- 1 Dòng lệnh tạo X-UI , Speestest , Chú ý dòng fix lổi nếu lệnh x-ui không hiện lên
+- 1 Dòng lệnh cập nhật ubuntu , tạo X-UI mở các port liên quan , cài Speestest VPS , Chú ý dòng fix lổi nếu lệnh x-ui không hiện lên
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/caidatvps.sh)
 ```
 
-- 2 Dòng lệnh chỉ cài X-UI 
+- 2 Dòng lệnh cập nhật ubuntu và cài X-UI mở các port liên quan thôi nhanh gọn
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/duybalai.sh)
 ```
