@@ -10,6 +10,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/c
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/duybalai.sh)
 ```
+- 3 Bảng Menu thao tác tuỳ chọn trên VPS 
+```
+bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/menutrancuong.sh)
+```
 
 **Hãy làm theo chú ý khi cài xong X-UI nhé không thôi bạn sẽ mất VPS . Cài xong sẽ thấy lời nhắn .**
 
