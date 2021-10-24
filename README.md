@@ -1,7 +1,14 @@
-**Sao Chép Hết Dán Vào VPS :**  
+**Sao Chép Hết Dán Vào VPS :**
+
+- 1 Dòng lệnh tạo X-UI , Speestest , Chú ý dòng fix lổi nếu lệnh x-ui không hiện lên
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/caidatvps.sh)
+```
+
+- 2 Dòng lệnh chỉ cài X-UI 
+```
+bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/duybalai.sh)
 ```
 
 **Hãy làm theo chú ý khi cài xong X-UI nhé không thôi bạn sẽ mất VPS . Cài xong sẽ thấy lời nhắn .**
