@@ -10,7 +10,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/c
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/duybalai.sh)
 ```
-- 3 Bảng Menu thao tác tuỳ chọn trên VPS 
+- 3 Bảng Menu thao tác tuỳ chọn trên VPS (Lưu Ý Ubuntu 18 Trở Lên Mới Hoạt Động)
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/TuTaoX-UI/master/menutrancuong.sh)
 ```
