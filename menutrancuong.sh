@@ -10,8 +10,6 @@ rm menucaidat.sh.7
 rm menucaidat.sh.8
 rm menucaidat.sh.9
 clear
-sudo su -
-apt-get update -y
 wget https://raw.githubusercontent.com/TranCuongQ4/X-UI-VH/master/menucaidat.sh
 chmod +x menucaidat.sh
 ./menucaidat.sh
